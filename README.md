@@ -1,4 +1,4 @@
-CoIoTe Project: optimization algorithm.
+#CoIoTe Project: optimization algorithm.
 
 
 General description:
